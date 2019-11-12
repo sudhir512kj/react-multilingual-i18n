@@ -1,3 +1,4 @@
 export default {
-  learnReact: "Learn React"
+  learnReact: "Learn React",
+  changeLanguage: "Change to hungarian"
 };
