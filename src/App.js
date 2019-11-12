@@ -23,6 +23,8 @@ class App extends React.Component {
           <a className="App-link" href="https://reactjs.org">
             {i18n("learnReact")}
           </a>
+          <p>{i18n("weatherCondition", 32)}</p>
+          <p>{i18n("lastUpdated", 10)}</p>
           <img
             src="https://bit.ly/2NR57Sj"
             alt="en"
